@@ -1,0 +1,69 @@
+{
+
+	"products" : [
+			{
+				"id": "548a8baf-95c2-407b-9eeb-516f47164837",
+				"name": "Amarula Cream b",
+				"description": "id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in",
+				"imageUrl": "https://images.foody.vn/res/g11/100592/prof/s576x330/foody-upload-api-foody-mobile-9-200116144432.jpg"
+			}, {
+				"id": "9a27a1f0-e8a3-4796-9f73-93818f3a0afb",
+				"name": "Pasta - Agnolotti - Butternut",
+				"description": "non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis",
+				"imageUrl": "https://images.foody.vn/res/g23/226607/prof/s576x330/foody-mobile-foody-tra-sua-chat-7-997-635967413166865210.jpg"
+			}, {
+				"id": "b843af39-4705-4da0-8cde-10cd5c24d096",
+				"name": "Mushroom - Chantrelle, Fresh",
+				"description": "laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper",
+				"imageUrl": "https://images.foody.vn/res/g10/93932/prof/s576x330/foody-mobile-bon-bon-mb-jpg-144-636017608661919382.jpg"
+			}, {
+				"id": "4360dd34-06a7-46a2-ba34-16f68e614e5c",
+				"name": "Coconut - Whole",
+				"description": "nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla",
+				"imageUrl": "https://images.foody.vn/res/g4/36450/prof/s576x330/image-5c0b71c8-201015132810.jpeg"
+			}, {
+				"id": "262be1fb-a628-467a-a5cf-ab2c38bf611f",
+				"name": "Pork - Sausage, Medium",
+				"description": "pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa",
+				"imageUrl": "https://phache.com.vn/upload/image/2_2.jpg"
+			}, {
+				"id": "5d972c19-4fa4-4c7c-9cd7-20ef9ab25516",
+				"name": "Pastry - Choclate Baked",
+				"description": "tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus",
+				"imageUrl": "https://phache.com.vn/upload/image/2_2.jpg"
+			}, {
+				"id": "55bf3e55-f62d-4a8b-9c89-6a6ce1ea9c70",
+				"name": "Tuna - Salad Premix",
+				"description": "etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean",
+				"imageUrl": "https://phache.com.vn/upload/image/2_2.jpg"
+			}, {
+				"id": "d3039070-b099-4389-93dc-dca08603dda3",
+				"name": "Napkin Colour",
+				"description": "maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus",
+				"imageUrl": "https://phache.com.vn/upload/image/2_2.jpg"
+			}],
+	"slick" : [
+			{
+				"id": "548a8baf-95c2-407b-9eeb-516f47164837",
+				"name": "Nông Xi Huong",
+				"description": "Sản phẩm rất ok, cửa hàng cũng ok nốt",
+				"imageUrl": "https://cdn-bbgao.nitrocdn.com/wuFnSSKavLfZSSMaIgsuBqllzyYGWsxq/assets/static/optimized/rev-da0e6cb/wp-content/uploads/2020/02/f81954cd7810954ecc01-1.jpg"
+			}, {
+				"id": "9a27a1f0-e8a3-4796-9f73-93818f3a0afb",
+				"name": "Ma Hữu Dự",
+				"description": "Rất tốt, phục vụ nhiệt tình",
+				"imageUrl": "https://mahuudu.xyz/wp-content/uploads/2016/12/82300054_2544955312393859_8829592714849812480_n.jpg"
+			}, {
+				"id": "b843af39-4705-4da0-8cde-10cd5c24d096",
+				"name": "T-ara",
+				"description": "laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper",
+				"imageUrl": "https://cdn-bbgao.nitrocdn.com/wuFnSSKavLfZSSMaIgsuBqllzyYGWsxq/assets/static/optimized/rev-da0e6cb/wp-content/uploads/2020/02/37afb5e594637e3d2772-1.jpg"
+			}, {
+				"id": "4360dd34-06a7-46a2-ba34-16f68e614e5c",
+				"name": "Đinh Ngọc Liu",
+				"description": "nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla",
+				"imageUrl": "https://cdn-bbgao.nitrocdn.com/wuFnSSKavLfZSSMaIgsuBqllzyYGWsxq/assets/static/optimized/rev-da0e6cb/wp-content/uploads/2020/02/b579684d3f11d24f8b00-1.jpg"
+	}]
+
+
+}
